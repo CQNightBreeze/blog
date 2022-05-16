@@ -57,7 +57,7 @@
           <client-only>
             <editor
               ref="editor"
-              height="500px"
+              height="150px"
               preview-style="tab"
               :options="editorOptions"
               @load="onEditorLoad"
