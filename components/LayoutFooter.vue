@@ -2,7 +2,7 @@
   <div class="layout-footer">
     {{ year }} © Powered by
     <a
-      href="https://github.com/eshengsky/iBlog"
+      href="https://github.com/CQNightBreeze/blog"
       target="_blank"
     >iBlog</a>
     <span v-if="settings.recordInfo" class="record-info">
